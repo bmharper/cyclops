@@ -1,0 +1,9 @@
+[submodule "cpp/third_party/uberlog"]
+	path = cpp/third_party/uberlog
+	url = https://github.com/IMQS/uberlog
+[submodule "cpp/third_party/phttp"]
+	path = cpp/third_party/phttp
+	url = https://github.com/bmharper/phttp
+[submodule "cpp/third_party/bmhpal"]
+	path = cpp/third_party/bmhpal
+	url = https://github.com/bmharper/pal
